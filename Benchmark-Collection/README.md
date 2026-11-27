@@ -9,10 +9,9 @@
    - 高引用、高影响力
    - 知名团队、大厂发布的 benchmark
    - LLM tech report 里常用的评测 benchmark
-3. **提交内容**：点击下方对应序号的 Markdown 文件，在表格中填入：
-   - **论文链接**
-   - **Hugging Face 链接**（如无则填 `-`）
-   - **benchmark 的 GitHub 仓库链接**（如无则填 `-`）
+3. **提交内容与方式**：
+   - 编辑下方对应序号的 Markdown 文件，在表格中填入：**论文链接**、**Hugging Face 链接**（如无则填 `-`）、**benchmark 的 GitHub 仓库链接**（如无则填 `-`）。
+   - 完成填写后，通过向本仓库提交 **Pull Request (PR)** 的方式提交调研成果。
 
 ---
 
