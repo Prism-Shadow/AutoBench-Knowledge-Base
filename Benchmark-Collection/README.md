@@ -43,9 +43,9 @@
 
 ---
 
-## 二、Meta Benchmark 与 Auto-Research 方法论文调研（序号 18 – 19）
+## 二、Auto Benchmark 与 Auto-Research 方法论文调研（序号 18 – 19）
 
 | 序号 | 调研方向（点击进入提交文件） | 数量 | 截止时间 | 备注 |
 | :---: | :--- | :---: | :---: | :--- |
-| 18 | [Meta Benchmark 相关工作（可重复认领）](./18-Meta-Benchmark-相关工作.md) | 每人 3 – 5 篇 | 12月3日 |  |
+| 18 | [Auto Benchmark 相关工作（可重复认领）](./18-Auto-Benchmark-相关工作.md) | 每人 3 – 5 篇 | 12月3日 |  |
 | 19 | [Auto-Research 方法与数据合成论文（可重复认领）](./19-Auto-Research-方法与数据合成论文.md) | 每人 3 – 5 篇 | 12月3日 |  |
