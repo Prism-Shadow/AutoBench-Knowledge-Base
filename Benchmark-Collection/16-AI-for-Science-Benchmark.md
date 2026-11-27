@@ -1,4 +1,4 @@
-# 12. 写作风格 Benchmark
+# 16. AI for Science Benchmark
 
 - **数量要求**：3 – 5 篇
 - **截止时间**：12月3日

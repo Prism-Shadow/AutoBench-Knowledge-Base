@@ -1,4 +1,4 @@
-# 8. Infra Benchmark
+# 17. Auto Research Benchmark
 
 - **数量要求**：3 – 5 篇
 - **截止时间**：12月3日
