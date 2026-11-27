@@ -5,16 +5,18 @@
 ## 提交方式与要求
 
 1. **任务认领**：先在 [AutoBench 第一阶段调研与任务认领表](https://docs.qq.com/sheet/DTVhCZ1RjVUJreGN5?tab=BB08J2) 中填写认领序号与姓名（一人可认领多个方向，ddl: 12月3日）。
-2. **Benchmark 的质量和论文要求**：
+2. **Benchmark 的质量和论文要求**（满足其一即可）：
    - 高引用、高影响力
    - 知名团队、大厂发布的 benchmark
    - LLM tech report 里常用的评测 benchmark
 3. **提交内容与方式**：
    - 编辑下方对应序号的 Markdown 文件，在表格中按实际情况选填：
-     - **论文链接** / **Tech blog 的链接** / **X 上介绍工作的链接**
+     - **论文链接**（非必填）
+     - **Tech blog 的链接**（可选）
+     - **X 上介绍工作的链接**（可选）
      - **Hugging Face 链接**
      - **benchmark 的 GitHub 仓库链接**
-   - 完成填写后，通过向本仓库提交 **Pull Request (PR)** 的方式提交调研成果。
+   - 完成填写后，通过向本仓库提交 **Pull Request (PR)** 的方式合入提交调研成果。
 
 ---
 
