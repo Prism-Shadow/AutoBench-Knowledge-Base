@@ -19,7 +19,7 @@
 
 ---
 
-## 一、各领域 Benchmark 调研（序号 1 – 17）
+## 一、各领域 Benchmark 调研（序号 1 – 18）
 
 | 序号 | 调研方向（点击进入提交文件） | 数量 | 截止时间 | 备注 |
 | :---: | :--- | :---: | :---: | :--- |
@@ -40,13 +40,14 @@
 | 15 | [Math / Physics Benchmark](./15-Math-Physics-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
 | 16 | [AI for Science Benchmark](./16-AI-for-Science-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
 | 17 | [Auto Research Benchmark](./17-Auto-Research-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 18 | [Safety Benchmark](./18-Safety-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
 
 ---
 
-## 二、Auto Benchmark、AutoResearch 与数据合成论文调研（序号 18 – 20）
+## 二、Auto Benchmark、AutoResearch 与数据合成论文调研（序号 19 – 21）
 
 | 序号 | 调研方向（点击进入提交文件） | 数量 | 截止时间 | 备注 |
 | :---: | :--- | :---: | :---: | :--- |
-| 18 | [Auto Benchmark 相关工作（可重复认领）](./18-Auto-Benchmark-相关工作.md) | 每人 2 – 5 篇 | 12月3日 |  |
-| 19 | [AutoResearch 相关工作（可重复认领）](./19-AutoResearch-相关工作.md) | 每人 2 – 5 篇 | 12月3日 |  |
-| 20 | [数据合成相关工作（可重复认领）](./20-数据合成相关工作.md) | 每人 2 – 5 篇 | 12月3日 |  |
+| 19 | [Auto Benchmark 相关工作（可重复认领）](./19-Auto-Benchmark-相关工作.md) | 每人 2 – 5 篇 | 12月3日 |  |
+| 20 | [AutoResearch 相关工作（可重复认领）](./20-AutoResearch-相关工作.md) | 每人 2 – 5 篇 | 12月3日 |  |
+| 21 | [数据合成相关工作（可重复认领）](./21-数据合成相关工作.md) | 每人 2 – 5 篇 | 12月3日 |  |
