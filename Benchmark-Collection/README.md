@@ -9,14 +9,13 @@
    - 高引用、高影响力
    - 知名团队、大厂发布的 benchmark
    - LLM tech report 里常用的评测 benchmark
-3. **提交内容与方式**：
-   - 编辑下方对应序号的 Markdown 文件，在表格中按实际情况选填：
-     - **论文链接**（非必填）
-     - **Tech blog 的链接**（可选）
-     - **X 上介绍工作的链接**（可选）
-     - **Hugging Face 链接**
-     - **benchmark 的 GitHub 仓库链接**
-   - 完成填写后，通过向本仓库提交 **Pull Request (PR)** 的方式合入提交调研成果。
+3. **提交内容**（以下至少有一项）：
+   1. 论文链接
+   2. Tech blog 的链接
+   3. X 上介绍工作的链接
+   4. Hugging Face 链接
+   5. benchmark 的 GitHub 仓库链接
+4. **提交方式**：编辑下方对应序号的 Markdown 文件并填入表格后，通过提交 **Pull Request (PR)** 的方式合到本仓库来进行提交。
 
 ---
 
