@@ -6,5 +6,5 @@ AutoBench（A System for Synthesizing High-Quality Benchmarks）的知识库仓�
 
 ## 目录导航
 
-- **[`Benchmark-Collection/`](./Benchmark-Collection/)**：第一阶段各领域 Benchmark 与论文调研收集目录（截止时间：12 月 2 日）
+- **[`Benchmark-Collection/`](./Benchmark-Collection/)**：第一阶段各领域 Benchmark 与论文调研收集目录（截止时间：12月3日）
 - **[AutoBench 第一阶段调研与任务认领表（腾讯文档）](https://docs.qq.com/sheet/DTVhCZ1RjVUJreGN5?tab=BB08J2)**：在线认领序号与查看分工进度
