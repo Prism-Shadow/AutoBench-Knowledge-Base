@@ -23,23 +23,23 @@
 
 | 序号 | 调研方向（点击进入提交文件） | 数量 | 截止时间 | 备注 |
 | :---: | :--- | :---: | :---: | :--- |
-| 1 | [财务 Benchmark](./01-财务-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 2 | [法律 Benchmark](./02-法律-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 3 | [医疗 Benchmark](./03-医疗-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 4 | [数据分析 Benchmark](./04-数据分析-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 5 | [表格问答 Benchmark](./05-表格问答-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 6 | [Code Benchmark](./06-Code-Benchmark.md) | 5 篇 | 12月3日 |  |
-| 7 | [Cowork Benchmark 和多轮交互 Benchmark](./07-Cowork-和多轮交互-Benchmark.md) | 5 篇 | 12月3日 |  |
-| 8 | [Long Horizon Benchmark](./08-Long-Horizon-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 9 | [Infra Benchmark](./09-Infra-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 10 | [CLAW Benchmark](./10-CLAW-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 11 | [Browser Use Benchmark](./11-Browser-Use-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 12 | [知识检索 Benchmark](./12-知识检索-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 13 | [写作风格 Benchmark](./13-写作风格-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 14 | [Office Task Benchmark](./14-Office-Task-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 15 | [Math / Physics Benchmark](./15-Math-Physics-Benchmark.md) | 5 篇 | 12月3日 |  |
-| 16 | [AI for Science Benchmark](./16-AI-for-Science-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
-| 17 | [Auto Research Benchmark](./17-Auto-Research-Benchmark.md) | 3 – 5 篇 | 12月3日 |  |
+| 1 | [财务 Benchmark](./01-财务-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 2 | [法律 Benchmark](./02-法律-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 3 | [医疗 Benchmark](./03-医疗-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 4 | [数据分析 Benchmark](./04-数据分析-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 5 | [表格问答 Benchmark](./05-表格问答-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 6 | [Code Benchmark](./06-Code-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 7 | [Cowork Benchmark 和多轮交互 Benchmark](./07-Cowork-和多轮交互-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 8 | [Long Horizon Benchmark](./08-Long-Horizon-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 9 | [Infra Benchmark](./09-Infra-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 10 | [CLAW Benchmark](./10-CLAW-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 11 | [Browser Use Benchmark](./11-Browser-Use-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 12 | [知识检索 Benchmark](./12-知识检索-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 13 | [写作风格 Benchmark](./13-写作风格-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 14 | [Office Task Benchmark](./14-Office-Task-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 15 | [Math / Physics Benchmark](./15-Math-Physics-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 16 | [AI for Science Benchmark](./16-AI-for-Science-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
+| 17 | [Auto Research Benchmark](./17-Auto-Research-Benchmark.md) | 2 – 5 篇 | 12月3日 |  |
 
 ---
 
@@ -47,6 +47,6 @@
 
 | 序号 | 调研方向（点击进入提交文件） | 数量 | 截止时间 | 备注 |
 | :---: | :--- | :---: | :---: | :--- |
-| 18 | [Auto Benchmark 相关工作（可重复认领）](./18-Auto-Benchmark-相关工作.md) | 每人 3 – 5 篇 | 12月3日 |  |
-| 19 | [AutoResearch 相关工作（可重复认领）](./19-AutoResearch-相关工作.md) | 每人 3 – 5 篇 | 12月3日 |  |
-| 20 | [数据合成相关工作（可重复认领）](./20-数据合成相关工作.md) | 每人 3 – 5 篇 | 12月3日 |  |
+| 18 | [Auto Benchmark 相关工作（可重复认领）](./18-Auto-Benchmark-相关工作.md) | 每人 2 – 5 篇 | 12月3日 |  |
+| 19 | [AutoResearch 相关工作（可重复认领）](./19-AutoResearch-相关工作.md) | 每人 2 – 5 篇 | 12月3日 |  |
+| 20 | [数据合成相关工作（可重复认领）](./20-数据合成相关工作.md) | 每人 2 – 5 篇 | 12月3日 |  |
