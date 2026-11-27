@@ -24,7 +24,7 @@
 | 3 | [数据分析 Benchmark](./03-数据分析-Benchmark.md) | 3 – 5 篇 | 12月2日前 |
 | 4 | [表格问答 Benchmark](./04-表格问答-Benchmark.md) | 3 – 5 篇 | 12月2日前 |
 | 5 | [Code Benchmark](./05-Code-Benchmark.md) | 5 篇 | 12月2日前 |
-| 6 | [Cowork Benchmark](./06-Cowork-Benchmark.md) | 3 – 5 篇 | 12月2日前 |
+| 6 | [Cowork Benchmark 和多轮交互 Benchmark](./06-Cowork-和多轮交互-Benchmark.md) | 5 篇 | 12月2日前 |
 | 7 | [Long Horizon Benchmark](./07-Long-Horizon-Benchmark.md) | 3 – 5 篇 | 12月2日前 |
 | 8 | [Infra Benchmark](./08-Infra-Benchmark.md) | 3 – 5 篇 | 12月2日前 |
 | 9 | [CLAW Benchmark](./09-CLAW-Benchmark.md) | 3 – 5 篇 | 12月2日前 |

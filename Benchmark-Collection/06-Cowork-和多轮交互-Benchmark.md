@@ -1,6 +1,6 @@
-# 6. Cowork Benchmark
+# 6. Cowork Benchmark 和多轮交互 Benchmark
 
-- **数量要求**：3 – 5 篇
+- **数量要求**：5 篇
 - **截止时间**：12月2日前
 - **筛选标准**：
   - 高引用、高影响力
